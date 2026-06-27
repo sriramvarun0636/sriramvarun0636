@@ -15,11 +15,11 @@ B.Tech Computer Science undergraduate at MNNIT Allahabad (Class of 2027), passio
 - Applied AI & secure agentic architectures
 
 ---
-
 ### 🛠️ Technical Skillset
 
 *   **Languages:** C++, Python, MQL5, SQL (Postgres), Java, Bash
 *   **Systems Programming:** POSIX, Multithreading, Actor Model, Socket Programming, FastAPI, SQLite
+*   **Applied AI:** LangGraph, LLM/SLM Orchestration (Ollama), Context Optimization, Agentic Workflows
 *   **Infrastructure & Security:** Docker (Container Sandboxing), Linux, Git, Prometheus, Grafana
 *   **Quantitative & Math:** Options Pricing (Black–Scholes, Greeks), Systematic Strategy Backtesting, Volatility-Adaptive Risk Management
 
