@@ -12,7 +12,7 @@ B.Tech Computer Science undergraduate at MNNIT Allahabad (Class of 2027), passio
 - Low-latency trading systems
 - Concurrent backend architecture
 - Quantitative research & market microstructure
-- Modern C++ for performance-critical systems
+- Applied AI & secure agentic architectures
 
 ---
 
